@@ -14,9 +14,5 @@ Click the "Capture Traffic" button to capture network packets.
 Click the "Train Model" button to train the Random Forest model on the captured packet data.
 Click the "Detect Intrusions" button to detect potential intrusions or anomalies in the network traffic using the trained model.
 
-# Requirements
-Python 3.x
-tkinter
-scapy
-pandas
-scikit-learn
+## Requirements
+Python 3.x, tkinter, scapy, pandas, scikit-learn
