@@ -20,3 +20,6 @@ Click the "Detect Intrusions" button to detect potential intrusions or anomalies
 
 ## Requirements
 Python 3.x, tkinter, scapy, pandas, scikit-learn
+
+## Disclaimer
+Did not test extensively
